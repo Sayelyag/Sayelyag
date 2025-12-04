@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sayelyag/Sayelyag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌸 Bienvenida a mi GitHub 🌸  
+### 💗 Desarrolladora en proceso — Java & Android 💗
 
-Here are some ideas to get you started:
+<img src="https://i.imgur.com/7LJ6z1i.gif" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologías que uso:
+
+![Java](https://img.shields.io/badge/Java-ff9ecf?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-ff77c6?style=for-the-badge&logo=android&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fca3d7?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 💕 Sobre mí
+- ✨ Amante del rosa  
+- 📚 Estudiando DAM  
+- ☕ Java enjoyer  
+- 🌱 Aprendiendo Android Studio  
+
+<img src="https://i.imgur.com/SO7N2OG.gif" width="250">
+
+</div>
