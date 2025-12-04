@@ -3,7 +3,8 @@
 # 🌸 Bienvenida a mi GitHub 🌸  
 ### 💗 Desarrolladora en proceso — Java & Android 💗
 
-<img src="https://i.imgur.com/7LJ6z1i.gif" width="300">
+<img width="739" height="456" alt="image" src="https://github.com/user-attachments/assets/978826a3-9580-48a8-899e-142c8ad17178" />
+
 
 ---
 
@@ -13,6 +14,11 @@
 ![Android](https://img.shields.io/badge/Android-ff77c6?style=for-the-badge&logo=android&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fca3d7?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff8ac9?style=for-the-badge&logo=kotlin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-fdb5dd?style=for-the-badge&logo=github&logoColor=white)
+![XML](https://img.shields.io/badge/XML-fd9ac4?style=for-the-badge&logo=w3c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-fc7fb4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-fba2cb?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
