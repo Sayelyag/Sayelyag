@@ -17,11 +17,11 @@
 ---
 
 ### 💕 Sobre mí
-- ✨ Amante del rosa  
-- 📚 Estudiando DAM  
+- 🧩 Experiencia con PL/SQL
+- 🎓 Estudiando DAM  
 - ☕ Java enjoyer  
-- 🌱 Aprendiendo Android Studio  
-
-<img src="https://i.imgur.com/SO7N2OG.gif" width="250">
+- 🌱 Aprendiendo Android Studio
+- 🗄️ Practicando SQL
+- 🌐 Conocimientos de HTML, CSS y XML
 
 </div>
