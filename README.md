@@ -22,6 +22,12 @@
 
 ---
 
+### 🌸 Mi actividad reciente  
+
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Sayelyag&theme=dracula&bg_color=ffc0cb&color=ffffff&line=ff69b4&point=ec407a&area=true&hide_border=true)
+
+---
+
 ### 💕 Sobre mí
 - 🧩 Experiencia con PL/SQL
 - 🎓 Estudiando DAM  
