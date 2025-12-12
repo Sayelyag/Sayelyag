@@ -8,17 +8,23 @@
 
 ---
 
-### Tecnologías que uso:
-
+### 💻 Lenguajes:
 ![Java](https://img.shields.io/badge/Java-ff9ecf?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-ff77c6?style=for-the-badge&logo=android&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fca3d7?style=for-the-badge&logo=git&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff8ac9?style=for-the-badge&logo=kotlin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-fdb5dd?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-fd9ac4?style=for-the-badge&logo=w3c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-fc7fb4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-fba2cb?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🛠 Herramientas y plataformas:
+![Android](https://img.shields.io/badge/Android-ff77c6?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fca3d7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-fdb5dd?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
