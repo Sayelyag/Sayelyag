@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌸 Bienvenida a mi GitHub 🌸  
-### 💗 Desarrolladora en proceso — Java & Android 💗
+# 🌸 Bienvenido a mi GitHub 🌸  
+### 💗 Desarrolladora en proceso 💗
 
 <img width="739" height="456" alt="image" src="https://github.com/user-attachments/assets/978826a3-9580-48a8-899e-142c8ad17178" />
 
@@ -22,9 +22,9 @@
 ![Android](https://img.shields.io/badge/Android-ff77c6?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fca3d7?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-fdb5dd?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-ff9ecf?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-ff9ecf?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-ff9ecf?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
