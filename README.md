@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🌸 Bienvenido a mi GitHub 🌸  
-### 💗 Desarrolladora en proceso 💗
+# 🌸 Desarrolladora Junior 🌸
 
 <img width="739" height="456" alt="image" src="https://github.com/user-attachments/assets/978826a3-9580-48a8-899e-142c8ad17178" />
 
@@ -25,6 +24,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-ff9ecf?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-ff9ecf?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-ff9ecf?style=for-the-badge&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff9ecf?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -35,11 +35,17 @@
 ---
 
 ### 💕 Sobre mí
-- 🧩 Experiencia con PL/SQL
-- 🎓 Estudiando DAM  
-- ☕ Java enjoyer  
-- 🌱 Aprendiendo Android Studio
-- 🗄️ Practicando SQL
-- 🌐 Conocimientos de HTML, CSS y XML
+- Titulación en Desarrollo de Aplicaciones Multiplataforma (DAM)
+- Experiencia práctica en desarrollo con Java, SQL y Android
+- Construcción de aplicaciones con bases de datos relacionales y PL/SQL
+- Enfoque en arquitectura de software y desarrollo estructurado
+- Interés en desarrollo backend y mobile development
+
+---
+
+## 📫 Contacto
+- Email: saielyag@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sara-ulgazi-el-yaghmouri-7bb7793b0/)
+- Portafolio:
 
 </div>
