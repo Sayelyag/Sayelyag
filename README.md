@@ -7,7 +7,7 @@
 
 ---
 
-### 💻 Lenguajes:
+### Lenguajes:
 ![Java](https://img.shields.io/badge/Java-ff9ecf?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff8ac9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠 Herramientas y plataformas:
+### Herramientas y plataformas:
 ![Android](https://img.shields.io/badge/Android-ff77c6?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fca3d7?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-fdb5dd?style=for-the-badge&logo=github&logoColor=white)
@@ -28,13 +28,13 @@
 
 ---
 
-### 🌸 Mi actividad reciente  
+### Actividad reciente  
 
 ![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Sayelyag&theme=dracula&bg_color=ffc0cb&color=ffffff&line=ff69b4&point=ec407a&area=true&hide_border=true)
 
 ---
 
-### 💕 Sobre mí
+### Sobre mí
 - Titulación en Desarrollo de Aplicaciones Multiplataforma (DAM)
 - Experiencia práctica en desarrollo con Java, SQL y Android
 - Construcción de aplicaciones con bases de datos relacionales y PL/SQL
@@ -43,7 +43,7 @@
 
 ---
 
-## 📫 Contacto
+## Contacto
 - Email: saielyag@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sara-ulgazi-el-yaghmouri-7bb7793b0/)
 - Portafolio:
