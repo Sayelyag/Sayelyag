@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Desarrolladora Junior 🌸
+# Desarrolladora Junior
 
 <img width="739" height="456" alt="image" src="https://github.com/user-attachments/assets/978826a3-9580-48a8-899e-142c8ad17178" />
 
