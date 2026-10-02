@@ -11,6 +11,8 @@
 ![Java](https://img.shields.io/badge/Java-ff9ecf?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff8ac9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-fba2cb?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-fc5dbb?style=for-the-badge&logo=postgresql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-fd9ac4?style=for-the-badge&logo=w3c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-fc7fb4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-fba2cb?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,12 +27,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-ff9ecf?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-ff9ecf?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff9ecf?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### Actividad reciente  
-
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=Sayelyag&theme=dracula&bg_color=ffc0cb&color=ffffff&line=ff69b4&point=ec407a&area=true&hide_border=true)
 
 ---
 
